@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="https://github.com/arsenalgunnershubert777/Competitive_Programming.git">
+  <component name="PublishConfigData" serverName="https://github.com/arsenalgunnershubert777/Competitive_Programming.git" uploadOnCheckin="e3484f31-a06e-4d6c-af56-3c68e42b8e63">
     <serverData>
       <paths name="https://github.com/arsenalgunnershubert777/Competitive_Programming.git">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/arsenalgunnershubert777/Competitive_Programming.git" />
   </component>
 </project>
