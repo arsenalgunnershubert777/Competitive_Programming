@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cf30c36-78ae-44b2-a9f8-bac8893cfd2d" name="Default Changelist" comment="" />
+    <list default="true" id="0cf30c36-78ae-44b2-a9f8-bac8893cfd2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/UFPT/Beautiful_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UFPT/Chat_Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UFPT/Dragons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UFPT/Petya_and_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UFPT/Tavas_and_SaDDas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,24 +64,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="java" value="9038" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="JAVA" value="9038" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
     </session>
   </component>
   <component name="FavoritesManager">
@@ -81,10 +96,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Testing/Shortcuts.java">
+        <entry file="file://$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="268">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -146,6 +173,13 @@
         <option value="$PROJECT_DIR$/src/Testing/Shortcuts.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/BinarySearch_Spoj.java" />
         <option value="$PROJECT_DIR$/src/UFPT/AGGRCOW.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/Petya_and_Strings.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/Beautiful_Matrix.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/Chat_Room.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/Dragons.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/Tavas_and_SaDDas.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java" />
       </list>
     </option>
   </component>
@@ -156,9 +190,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="416" />
+    <option name="y" value="20" />
+    <option name="width" value="1520" />
+    <option name="height" value="827" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -190,7 +225,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537734173511" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537797681366" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -205,9 +240,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AGGRCOW">
-    <configuration name="AGGRCOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UFPT.AGGRCOW" />
+  <component name="RunManager" selected="Application.They_Are_Everywhere">
+    <configuration name="Chat_Room" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UFPT.Chat_Room" />
       <module name="Competitive_Programming" />
       <extension name="coverage">
         <pattern>
@@ -219,12 +254,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearch_Spoj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.BinarySearch_Spoj" />
+    <configuration name="Dragons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UFPT.Dragons" />
       <module name="Competitive_Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithms.*" />
+          <option name="PATTERN" value="UFPT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shortcuts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Testing.Shortcuts" />
+    <configuration name="Min_Val_Rect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UFPT.Min_Val_Rect" />
       <module name="Competitive_Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Testing.*" />
+          <option name="PATTERN" value="UFPT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.String_Permutations" />
+    <configuration name="Tavas_and_SaDDas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UFPT.Tavas_and_SaDDas" />
       <module name="Competitive_Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithms.*" />
+          <option name="PATTERN" value="UFPT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Permutations_Iterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.String_Permutations_Iterative" />
+    <configuration name="They_Are_Everywhere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UFPT.They_Are_Everywhere" />
       <module name="Competitive_Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithms.*" />
+          <option name="PATTERN" value="UFPT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,19 +307,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.String_Permutations" />
-      <item itemvalue="Application.String_Permutations_Iterative" />
-      <item itemvalue="Application.Shortcuts" />
-      <item itemvalue="Application.BinarySearch_Spoj" />
-      <item itemvalue="Application.AGGRCOW" />
+      <item itemvalue="Application.Chat_Room" />
+      <item itemvalue="Application.Dragons" />
+      <item itemvalue="Application.Min_Val_Rect" />
+      <item itemvalue="Application.They_Are_Everywhere" />
+      <item itemvalue="Application.Tavas_and_SaDDas" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AGGRCOW" />
-        <item itemvalue="Application.BinarySearch_Spoj" />
-        <item itemvalue="Application.Shortcuts" />
-        <item itemvalue="Application.String_Permutations_Iterative" />
-        <item itemvalue="Application.String_Permutations" />
+        <item itemvalue="Application.They_Are_Everywhere" />
+        <item itemvalue="Application.Min_Val_Rect" />
+        <item itemvalue="Application.Tavas_and_SaDDas" />
+        <item itemvalue="Application.Dragons" />
+        <item itemvalue="Application.Chat_Room" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +339,7 @@
       <workItem from="1537041318478" duration="33047000" />
       <workItem from="1537310778677" duration="36138000" />
       <workItem from="1537571256453" duration="8358000" />
-      <workItem from="1537733224671" duration="901000" />
+      <workItem from="1537733224671" duration="24939000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1537733420885</created>
@@ -324,30 +359,31 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99613000" />
+    <option name="totallyTimeSpent" value="123651000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="269" y="25" width="1216" height="700" extended-state="0" />
+    <frame x="333" y="16" width="1216" height="661" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49668875" visible="true" weight="0.21020761" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49625936" visible="true" weight="0.21020761" />
       <window_info id="Structure" order="1" sideWeight="0.5033113" side_tool="true" weight="0.2" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.501292" side_tool="true" weight="0.15069444" />
+      <window_info id="Favorites" order="6" sideWeight="0.50374067" side_tool="true" visible="true" weight="0.21020761" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49965253" weight="0.24691358" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3809524" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49567473" visible="true" weight="0.2405303" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4982699" weight="0.37878788" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4982699" weight="0.20282187" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49913496" visible="true" weight="0.329806" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50086504" side_tool="true" visible="true" weight="0.329806" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32276657" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49913496" weight="0.3655303" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5043253" weight="0.2405303" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49913496" weight="0.3219697" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -412,6 +448,30 @@
           <line>10</line>
           <properties />
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -554,8 +614,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Testing/Shortcuts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/Petya_and_Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/Beautiful_Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/Chat_Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/Dragons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="123" column="19" selection-start-line="123" selection-start-column="19" selection-end-line="123" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="938" selection-start-line="938" selection-end-line="938" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/Tavas_and_SaDDas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
