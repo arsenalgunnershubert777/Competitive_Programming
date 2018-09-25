@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cf30c36-78ae-44b2-a9f8-bac8893cfd2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UFPT/Beautiful_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UFPT/Chat_Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UFPT/Dragons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UFPT/Petya_and_Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UFPT/Tavas_and_SaDDas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UFPT/Divisibility_by_Eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UFPT/Islands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UFPT/Periodic_Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Min_Val_Rect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Min_Val_Rect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/They_Are_Everywhere.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/They_Are_Everywhere.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,28 +57,29 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9038" />
+          <entry key="java" value="14127" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9038" />
+          <entry key="JAVA" value="14127" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -94,8 +93,8 @@
     <favorites_list name="Dynamic Programming" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="268">
@@ -108,10 +107,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java">
+        <entry file="file://$PROJECT_DIR$/src/UFPT/Divisibility_by_Eight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state>
+              <caret selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UFPT/Islands.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-513">
+              <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UFPT/Periodic_Strings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="56" lean-forward="true" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/UFPT/Periodic_Strings_Another_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -180,6 +215,10 @@
         <option value="$PROJECT_DIR$/src/UFPT/Tavas_and_SaDDas.java" />
         <option value="$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java" />
         <option value="$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/Divisibility_by_Eight.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/Islands.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/Periodic_Strings.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/Periodic_Strings_Another_Solution.java" />
       </list>
     </option>
   </component>
@@ -189,11 +228,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="416" />
-    <option name="y" value="20" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="402" />
+    <option name="y" value="7" />
     <option name="width" value="1520" />
-    <option name="height" value="827" />
+    <option name="height" value="1014" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -213,19 +252,25 @@
               <item name="Competitive_Programming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Competitive_Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Competitive_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UFPT" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537797681366" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537850485145" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -240,9 +285,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.They_Are_Everywhere">
-    <configuration name="Chat_Room" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UFPT.Chat_Room" />
+  <component name="RunManager" selected="Application.Periodic_Strings_Another_Solution">
+    <configuration name="Divisibility_by_Eight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UFPT.Divisibility_by_Eight" />
       <module name="Competitive_Programming" />
       <extension name="coverage">
         <pattern>
@@ -254,8 +299,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dragons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UFPT.Dragons" />
+    <configuration name="Islands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UFPT.Islands" />
       <module name="Competitive_Programming" />
       <extension name="coverage">
         <pattern>
@@ -267,8 +312,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Min_Val_Rect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UFPT.Min_Val_Rect" />
+    <configuration name="Periodic_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UFPT.Periodic_Strings" />
       <module name="Competitive_Programming" />
       <extension name="coverage">
         <pattern>
@@ -280,8 +325,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tavas_and_SaDDas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UFPT.Tavas_and_SaDDas" />
+    <configuration name="Periodic_Strings_Another_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UFPT.Periodic_Strings_Another_Solution" />
       <module name="Competitive_Programming" />
       <extension name="coverage">
         <pattern>
@@ -307,19 +352,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Chat_Room" />
-      <item itemvalue="Application.Dragons" />
-      <item itemvalue="Application.Min_Val_Rect" />
       <item itemvalue="Application.They_Are_Everywhere" />
-      <item itemvalue="Application.Tavas_and_SaDDas" />
+      <item itemvalue="Application.Divisibility_by_Eight" />
+      <item itemvalue="Application.Islands" />
+      <item itemvalue="Application.Periodic_Strings" />
+      <item itemvalue="Application.Periodic_Strings_Another_Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Periodic_Strings_Another_Solution" />
+        <item itemvalue="Application.Periodic_Strings" />
+        <item itemvalue="Application.Islands" />
+        <item itemvalue="Application.Divisibility_by_Eight" />
         <item itemvalue="Application.They_Are_Everywhere" />
-        <item itemvalue="Application.Min_Val_Rect" />
-        <item itemvalue="Application.Tavas_and_SaDDas" />
-        <item itemvalue="Application.Dragons" />
-        <item itemvalue="Application.Chat_Room" />
       </list>
     </recent_temporary>
   </component>
@@ -340,6 +385,7 @@
       <workItem from="1537310778677" duration="36138000" />
       <workItem from="1537571256453" duration="8358000" />
       <workItem from="1537733224671" duration="24939000" />
+      <workItem from="1537821935180" duration="14452000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1537733420885</created>
@@ -359,29 +405,29 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123651000" />
+    <option name="totallyTimeSpent" value="138103000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="333" y="16" width="1216" height="661" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49625936" visible="true" weight="0.21020761" />
-      <window_info id="Structure" order="1" sideWeight="0.5033113" side_tool="true" weight="0.2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49530956" visible="true" weight="0.16577181" />
+      <window_info id="Structure" order="1" sideWeight="0.50497514" side_tool="true" weight="0.21366782" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50374067" side_tool="true" visible="true" weight="0.21020761" />
+      <window_info id="Favorites" order="6" sideWeight="0.5046904" side_tool="true" visible="true" weight="0.16577181" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49567473" visible="true" weight="0.2405303" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4982699" weight="0.37878788" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49567473" visible="true" weight="0.24397163" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4982699" weight="0.37758112" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4982699" weight="0.20282187" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49913496" weight="0.3655303" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49913496" weight="0.25330812" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5043253" weight="0.2405303" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49913496" weight="0.3219697" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -472,6 +518,12 @@
           <line>6</line>
           <properties />
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UFPT/Periodic_Strings.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -674,6 +726,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/Divisibility_by_Eight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/Islands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -681,10 +760,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/Periodic_Strings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        <state relative-caret-position="544">
+          <caret line="32" column="56" lean-forward="true" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/Periodic_Strings_Another_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
