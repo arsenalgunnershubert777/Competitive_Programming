@@ -12,56 +12,46 @@ public class Min_Val_Rect {
             String s = "";
             s = sc.readLine();
             String[] strs = s.trim().split("\\s+");
-            boolean foundCase = false;
 
-            PriorityQueue<Integer> availSticks = new PriorityQueue<>(Collections.reverseOrder());
-            for (int j = 0; j < numSticks;j ++) {
 
-                int stick = Integer.parseInt(strs[j]);
-                if (!map.containsKey(stick)) {
-                    map.put(stick, 1);
-                }
-                else {
-                    int num = map.get(stick) + 1;
-                    map.put(stick,num);
-                    if (num ==4) {
-                        System.out.println(stick + " " + stick + " " + stick + " " + stick);
-                        foundCase = true;
-                        break;
 
-                    }
-                    else if (num == 2) {
-                        availSticks.add(stick);
-                    }
+            ArrayList<Integer> availSticksFinal = new ArrayList<>();
+            HashSet<Integer> set = new HashSet<>();
+
+            for (int j = 0; j < numSticks; j++) {
+                Integer number = Integer.parseInt(strs[j]);
+                boolean bool = set.add(number);
+                if (!bool) {
+                    availSticksFinal.add(number);
+                    set.remove(number);
 
                 }
+
+
             }
+            availSticksFinal.sort(Collections.reverseOrder());
 
-
-
-            if (!foundCase) {
-                int num1 = availSticks.poll();
-                int num2 = availSticks.peek();
-                float minRatio  =  ((float) num1)/( (float) num2);
-                int[] result = {num1, num2};
-                int size = availSticks.size();
-                for (int j = 1; j < size; j++) {
-                    num1 = availSticks.poll();
-                    num2 = availSticks.peek();
-                    float ratio =  ((float) num1)/( (float) num2);
-
+            int minDistance = availSticksFinal.get((0)) - availSticksFinal.get(1);
+            float minRatio = ((float) availSticksFinal.get(0)) / availSticksFinal.get(1);
+            int index = 0;
+            for (int j = 1; j < availSticksFinal.size() - 1; j++) {
+                int distance = availSticksFinal.get(j) - availSticksFinal.get(j + 1);
+                if (distance < minDistance) {
+                    float ratio = ((float) availSticksFinal.get(j)) / availSticksFinal.get(j + 1);
                     if (ratio < minRatio) {
                         minRatio = ratio;
-                        result[0] = num1;
-                        result[1] = num2;
+                        index = j;
+                        if (distance == 0)
+                            break;
+
                     }
-                    else if (minRatio < ((float)num2)/(num2 -1))
-                        break;
+                    minDistance = distance;
 
 
                 }
-                System.out.println(result[0] + " " + result[0] + " " + result[1] + " " + result[1]);
+
             }
+            System.out.println(availSticksFinal.get(index) + " " + availSticksFinal.get(index) + " " + availSticksFinal.get(index + 1) + " " + availSticksFinal.get(index + 1));
 
 
 
