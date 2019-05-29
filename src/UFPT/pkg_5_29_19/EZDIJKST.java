@@ -51,7 +51,7 @@ public class EZDIJKST {
     }
     public static void main(String[] args) throws Exception {
 
-        Parser in = new Parser(System.in);
+        Reader in = new Reader(System.in);
 
         int numTests = in.nextInt();
         int[] toPrint = new int[numTests];
@@ -86,14 +86,14 @@ public class EZDIJKST {
     }
 }
 
-class Parser{
+class Reader{
     final private int BUFFER_SIZE = 1 << 16;
 
     private DataInputStream din;
     private byte[] buffer;
     private int bufferPointer, bytesRead;
 
-    public Parser(InputStream in){
+    public Reader(InputStream in){
         din = new DataInputStream(in);
         buffer = new byte[BUFFER_SIZE];
         bufferPointer = bytesRead = 0;
