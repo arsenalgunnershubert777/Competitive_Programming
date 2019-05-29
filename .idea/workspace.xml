@@ -5,83 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cf30c36-78ae-44b2-a9f8-bac8893cfd2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UFPT/pkg_5_21_19/HOMO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UFPT/pkg_5_21_19/SCAVHUNT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/AGGRCOW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Add_All.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Beautiful_Matrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Borrowers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Box_Of_Bricks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Bus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Chat_Room.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/ComplicatedBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Das_BlinkenLights.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Dishonest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Divisibility_by_Eight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Dragons.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Easy_RujiaLiu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/F.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Hardwood_Species.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Islands.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Jolly_Jumpers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Left_Right.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Lemmings_Battle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Length_Encoding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Map_Maker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Matrix_Transpose.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Min_Val_Rect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Paint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Periodic_Strings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Petya_and_Strings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Qualification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Ribbons.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Ribbons_Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Row.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/ScavHunt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Stock_Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Tavas_and_SaDDas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/They_Are_Everywhere.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Units.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Vacation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Voucher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/AGGRCOW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/AGGRCOW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Add_All.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Add_All.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Beautiful_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Beautiful_Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Borrowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Borrowers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Box_Of_Bricks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Box_Of_Bricks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Chat_Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Chat_Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/ComplicatedBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/ComplicatedBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Das_BlinkenLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Das_BlinkenLights.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Dishonest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Dishonest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Divisibility_by_Eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Divisibility_by_Eight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Dragons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Dragons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Easy_RujiaLiu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Easy_RujiaLiu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/EightQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/EightQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/FlexibleSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/FlexibleSpace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Hardwood_Species.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Hardwood_Species.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Islands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Islands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Jolly_Jumpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Jolly_Jumpers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Left_Right.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Left_Right.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Lemmings_Battle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Lemmings_Battle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Length_Encoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Length_Encoding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Map_Maker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Map_Maker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Matrix_Transpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Matrix_Transpose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Min_Val_Rect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/MixedFractions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/MixedFractions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Paint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Paint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Periodic_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Periodic_Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Petya_and_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Petya_and_Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Ribbons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Ribbons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Row.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Row.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/ScavHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/ScavHunt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Stock_Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Stock_Time.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Tavas_and_SaDDas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Tavas_and_SaDDas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/They_Are_Everywhere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Units.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Units.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Vacation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -141,24 +66,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="69" />
+          <entry key="java" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="69" />
+          <entry key="JAVA" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="35990" />
-          <entry key="txt" value="6" />
+          <entry key="java" value="36043" />
+          <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="35990" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="JAVA" value="36043" />
+          <entry key="PLAIN_TEXT" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -193,7 +118,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_5_21_19/HOMO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
+            <state relative-caret-position="2023">
               <caret line="119" selection-start-line="119" selection-end-line="119" />
             </state>
           </provider>
@@ -202,8 +127,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+            <state relative-caret-position="228">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tools/Reader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -237,7 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/UFPT/Matrix_Transpose.java" />
         <option value="$PROJECT_DIR$/src/UFPT/Lemmings_Battle.java" />
         <option value="$PROJECT_DIR$/src/UFPT/Hardwood_Species.java" />
         <option value="$PROJECT_DIR$/src/UFPT/Add_All.java" />
@@ -287,6 +223,7 @@
         <option value="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Add_All.java" />
         <option value="$PROJECT_DIR$/src/UFPT/pkg_5_21_19/SCAVHUNT.java" />
         <option value="$PROJECT_DIR$/src/UFPT/pkg_5_21_19/HOMO.java" />
+        <option value="$PROJECT_DIR$/src/Tools/Reader.java" />
         <option value="$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java" />
       </list>
     </option>
@@ -340,27 +277,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="UFPT" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Competitive_Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Competitive_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="UFPT" type="462c0819:PsiDirectoryNode" />
-              <item name="pkg_5_21_19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Competitive_Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Competitive_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="UFPT" type="462c0819:PsiDirectoryNode" />
-              <item name="pkg_5_29_19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Competitive_Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Competitive_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="UFPT" type="462c0819:PsiDirectoryNode" />
-              <item name="pkg_bf_4_5_19" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -371,7 +287,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559158391595" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559158617322" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -495,7 +411,7 @@
       <workItem from="1540069357438" duration="175000" />
       <workItem from="1554498661204" duration="20451000" />
       <workItem from="1558460738342" duration="6454000" />
-      <workItem from="1558833744608" duration="4804000" />
+      <workItem from="1558833744608" duration="5123000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1537733420885</created>
@@ -518,11 +434,34 @@
       <option name="project" value="LOCAL" />
       <updated>1539470443424</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="some more problems">
+      <created>1559158358558</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559158358558</updated>
+    </task>
+    <task id="LOCAL-00005" summary="some more problems">
+      <created>1559158491375</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559158491375</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228667000" />
+    <option name="totallyTimeSpent" value="228986000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -537,12 +476,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.50496453" side_tool="true" weight="0.16577181" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49567473" visible="true" weight="0.27375886" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49567473" weight="0.27375886" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4982699" weight="0.35886526" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4982699" weight="0.19858156" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4982699" visible="true" weight="0.19858156" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49913496" weight="0.20992908" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5043253" weight="0.2397163" />
@@ -566,7 +505,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="some more problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="some more problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -724,20 +664,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Matrix_Transpose.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Jolly_Jumpers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Map_Maker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1039,15 +965,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_5_21_19/HOMO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
+        <state relative-caret-position="2023">
           <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tools/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        <state relative-caret-position="228">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
