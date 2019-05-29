@@ -1,15 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/UFPT/Units.java" line="53" />
+    <bookmark url="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Units.java" line="53" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cf30c36-78ae-44b2-a9f8-bac8893cfd2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UFPT/EightQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UFPT/FlexibleSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UFPT/MixedFractions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UFPT/pkg_5_21_19/HOMO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UFPT/pkg_5_21_19/SCAVHUNT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/Qualification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/AGGRCOW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Add_All.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Beautiful_Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Borrowers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Box_Of_Bricks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Chat_Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/ComplicatedBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Das_BlinkenLights.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Dishonest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Divisibility_by_Eight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Dragons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Easy_RujiaLiu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/F.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Hardwood_Species.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Islands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Jolly_Jumpers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Left_Right.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Lemmings_Battle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Length_Encoding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Map_Maker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Matrix_Transpose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Min_Val_Rect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Paint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Periodic_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Petya_and_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Qualification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Ribbons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Ribbons_Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Row.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/ScavHunt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Stock_Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Tavas_and_SaDDas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/They_Are_Everywhere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Units.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Vacation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Competitive_Programming/UFPT/Voucher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/AGGRCOW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/AGGRCOW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Add_All.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Add_All.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Beautiful_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Beautiful_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Borrowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Borrowers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Box_Of_Bricks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Box_Of_Bricks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Chat_Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Chat_Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/ComplicatedBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/ComplicatedBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Das_BlinkenLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Das_BlinkenLights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Dishonest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Dishonest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Divisibility_by_Eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Divisibility_by_Eight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Dragons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Dragons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Easy_RujiaLiu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Easy_RujiaLiu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/EightQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/EightQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/FlexibleSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/FlexibleSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Hardwood_Species.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Hardwood_Species.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Islands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Islands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Jolly_Jumpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Jolly_Jumpers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Left_Right.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Left_Right.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Lemmings_Battle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Lemmings_Battle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Length_Encoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Length_Encoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Map_Maker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Map_Maker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Matrix_Transpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Matrix_Transpose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Min_Val_Rect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/MixedFractions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/MixedFractions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Paint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Paint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Periodic_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Periodic_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Petya_and_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Petya_and_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Ribbons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Ribbons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Row.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Row.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/ScavHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/ScavHunt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Stock_Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Stock_Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Tavas_and_SaDDas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Tavas_and_SaDDas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/They_Are_Everywhere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Units.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Units.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UFPT/Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Vacation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,32 +130,34 @@
     <session id="-1563763261">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.6" value="4" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="6" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="54" />
+          <entry key="java" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="54" />
+          <entry key="JAVA" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="31210" />
+          <entry key="java" value="35990" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="31210" />
+          <entry key="JAVA" value="35990" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -99,41 +173,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UFPT/Units.java">
+        <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/AGGRCOW.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1989">
-              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UFPT/FlexibleSpace.java">
+        <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_5_21_19/SCAVHUNT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-208">
-              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#684#693#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="527">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UFPT/MixedFractions.java">
+        <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_5_21_19/HOMO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="674">
+              <caret line="119" selection-start-line="119" selection-end-line="119" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/UFPT/EightQueens.java">
+        <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1836">
-              <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+            <state relative-caret-position="34">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -167,10 +237,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Add_All.java" />
-        <option value="$PROJECT_DIR$/src/Jolly_Jumpers.java" />
-        <option value="$PROJECT_DIR$/src/Box_Of_Bricks.java" />
-        <option value="$PROJECT_DIR$/src/Map_Maker.java" />
         <option value="$PROJECT_DIR$/src/UFPT/Matrix_Transpose.java" />
         <option value="$PROJECT_DIR$/src/UFPT/Lemmings_Battle.java" />
         <option value="$PROJECT_DIR$/src/UFPT/Hardwood_Species.java" />
@@ -218,6 +284,10 @@
         <option value="$PROJECT_DIR$/src/UFPT/FlexibleSpace.java" />
         <option value="$PROJECT_DIR$/src/UFPT/MixedFractions.java" />
         <option value="$PROJECT_DIR$/src/UFPT/EightQueens.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Add_All.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/pkg_5_21_19/SCAVHUNT.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/pkg_5_21_19/HOMO.java" />
+        <option value="$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java" />
       </list>
     </option>
   </component>
@@ -227,9 +297,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="187" />
-    <option name="y" value="2" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="185" />
     <option name="width" value="1530" />
     <option name="height" value="900" />
   </component>
@@ -240,6 +309,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,18 +340,38 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="UFPT" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Competitive_Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Competitive_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UFPT" type="462c0819:PsiDirectoryNode" />
+              <item name="pkg_5_21_19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Competitive_Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Competitive_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UFPT" type="462c0819:PsiDirectoryNode" />
+              <item name="pkg_5_29_19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Competitive_Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Competitive_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UFPT" type="462c0819:PsiDirectoryNode" />
+              <item name="pkg_bf_4_5_19" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539470834248" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559158298639" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -296,13 +386,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Units">
-    <configuration name="Das_BlinkenLights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UFPT.Das_BlinkenLights" />
+  <component name="RunManager" selected="Application.EZDIJKST">
+    <configuration name="EZDIJKST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UFPT.pkg_5_29_19.EZDIJKST" />
       <module name="Competitive_Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UFPT.*" />
+          <option name="PATTERN" value="UFPT.pkg_5_29_19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HOMO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UFPT.pkg_5_21_19.HOMO" />
+      <module name="Competitive_Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UFPT.pkg_5_21_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,11 +414,11 @@
       </method>
     </configuration>
     <configuration name="Left_Right" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UFPT.Left_Right" />
+      <option name="MAIN_CLASS_NAME" value="UFPT.pkg_bf_4_5_19.Left_Right" />
       <module name="Competitive_Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UFPT.*" />
+          <option name="PATTERN" value="UFPT.pkg_bf_4_5_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,25 +426,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Length_Encoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UFPT.Length_Encoding" />
+    <configuration name="SCAVHUNT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UFPT.pkg_5_21_19.SCAVHUNT" />
       <module name="Competitive_Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UFPT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Paint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UFPT.Paint" />
-      <module name="Competitive_Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UFPT.*" />
+          <option name="PATTERN" value="UFPT.pkg_5_21_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,11 +440,11 @@
       </method>
     </configuration>
     <configuration name="Units" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UFPT.Units" />
+      <option name="MAIN_CLASS_NAME" value="UFPT.pkg_bf_4_5_19.Units" />
       <module name="Competitive_Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UFPT.*" />
+          <option name="PATTERN" value="UFPT.pkg_bf_4_5_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,19 +453,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Paint" />
-      <item itemvalue="Application.Das_BlinkenLights" />
-      <item itemvalue="Application.Length_Encoding" />
       <item itemvalue="Application.Left_Right" />
       <item itemvalue="Application.Units" />
+      <item itemvalue="Application.SCAVHUNT" />
+      <item itemvalue="Application.HOMO" />
+      <item itemvalue="Application.EZDIJKST" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EZDIJKST" />
+        <item itemvalue="Application.HOMO" />
+        <item itemvalue="Application.SCAVHUNT" />
         <item itemvalue="Application.Units" />
         <item itemvalue="Application.Left_Right" />
-        <item itemvalue="Application.Length_Encoding" />
-        <item itemvalue="Application.Das_BlinkenLights" />
-        <item itemvalue="Application.Paint" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +491,11 @@
       <workItem from="1538230750773" duration="29500000" />
       <workItem from="1538777180176" duration="10128000" />
       <workItem from="1539210333262" duration="359000" />
-      <workItem from="1539459799125" duration="6153000" />
+      <workItem from="1539459799125" duration="6808000" />
+      <workItem from="1540069357438" duration="175000" />
+      <workItem from="1554498661204" duration="20451000" />
+      <workItem from="1558460738342" duration="6454000" />
+      <workItem from="1558833744608" duration="4804000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1537733420885</created>
@@ -428,13 +522,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196128000" />
+    <option name="totallyTimeSpent" value="228667000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="150" y="2" width="1224" height="720" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4861996" visible="true" weight="0.22852233" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4861996" visible="true" weight="0.19060403" />
       <window_info id="Structure" order="1" sideWeight="0.51380044" side_tool="true" weight="0.22852233" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -443,14 +537,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.50496453" side_tool="true" weight="0.16577181" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49567473" weight="0.39182281" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4982699" weight="0.35945484" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49567473" visible="true" weight="0.27375886" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4982699" weight="0.35886526" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4982699" visible="true" weight="0.20102215" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4982699" weight="0.19858156" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49913496" weight="0.25248227" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49913496" weight="0.20992908" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5043253" weight="0.2397163" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49913496" weight="0.31958762" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -508,189 +602,153 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/AGGRCOW.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/AGGRCOW.java</url>
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/AGGRCOW.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/AGGRCOW.java</url>
           <line>10</line>
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Min_Val_Rect.java</url>
           <line>6</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/They_Are_Everywhere.java</url>
           <line>11</line>
           <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/They_Are_Everywhere.java</url>
           <line>5</line>
           <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/They_Are_Everywhere.java</url>
           <line>6</line>
           <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/Periodic_Strings.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Periodic_Strings.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/Row.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Row.java</url>
           <line>11</line>
           <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/Vacation.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Vacation.java</url>
           <line>11</line>
           <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/Vacation.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Vacation.java</url>
           <line>12</line>
           <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/Vacation.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Vacation.java</url>
           <line>14</line>
           <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/Vacation.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Vacation.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/ComplicatedBook.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/ComplicatedBook.java</url>
           <line>11</line>
           <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/Paint.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Paint.java</url>
           <line>12</line>
           <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/Das_BlinkenLights.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Das_BlinkenLights.java</url>
           <line>9</line>
           <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/Left_Right.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Left_Right.java</url>
           <line>9</line>
           <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/Units.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Units.java</url>
           <line>5</line>
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/Units.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Units.java</url>
           <line>6</line>
           <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UFPT/Units.java</url>
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Units.java</url>
           <line>7</line>
           <properties />
           <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UFPT/pkg_5_21_19/HOMO.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="165" column="11" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Lemmings_Battle.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Matrix_Transpose.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Matrix_Transpose.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Jolly_Jumpers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Add_All.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Jolly_Jumpers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Box_Of_Bricks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Map_Maker.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Map_Maker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Stock_Time.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Stock_Time.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="79" selection-start-line="1" selection-start-column="79" selection-end-line="1" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Borrowers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -701,7 +759,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Easy_RujiaLiu.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Easy_RujiaLiu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
@@ -712,13 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/AGGRCOW.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -738,7 +789,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UFPT/Periodic_Strings_Another_Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/Testing/HelloWorldAnonymousClasses.java" />
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Hardwood_Species.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Hardwood_Species.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -752,7 +803,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Min_Val_Rect.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Min_Val_Rect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="45" selection-start-line="45" selection-end-line="45" />
@@ -762,14 +813,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Tavas_and_SaDDas.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Tavas_and_SaDDas.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Periodic_Strings.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Periodic_Strings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
@@ -779,42 +830,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Petya_and_Strings.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Petya_and_Strings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Beautiful_Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Chat_Room.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Dragons.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Dragons.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/They_Are_Everywhere.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/They_Are_Everywhere.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Islands.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Islands.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-493">
           <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
@@ -822,28 +859,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UFPT/Periodic.java" />
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Divisibility_by_Eight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Row.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Row.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Bus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Vacation.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Vacation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
@@ -854,35 +877,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UFPT/Treasure_Hunt.java" />
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Qualification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Dishonest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Length_Encoding.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/Qualification.java" />
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Length_Encoding.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="46" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Paint.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Paint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1207">
           <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/ScavHunt.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/ScavHunt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
@@ -896,83 +906,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Ribbons_Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Das_BlinkenLights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/ComplicatedBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Left_Right.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/Ribbons_Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Left_Right.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Ribbons.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Ribbons.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1411">
           <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/F.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/Units.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/F.java" />
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Units.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1989">
-          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/FlexibleSpace.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/FlexibleSpace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-208">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#684#693#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/MixedFractions.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/MixedFractions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/EightQueens.java">
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/EightQueens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
+        <state relative-caret-position="407">
           <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Add_All.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Beautiful_Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Borrowers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Box_Of_Bricks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Dishonest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Das_BlinkenLights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/ComplicatedBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Chat_Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/Divisibility_by_Eight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_bf_4_5_19/AGGRCOW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_5_21_19/SCAVHUNT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_5_21_19/HOMO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
     </entry>
