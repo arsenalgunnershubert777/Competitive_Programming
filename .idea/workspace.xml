@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0cf30c36-78ae-44b2-a9f8-bac8893cfd2d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -124,16 +123,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
+            <state relative-caret-position="-945">
               <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Tools/Reader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
@@ -275,6 +274,12 @@
               <item name="Competitive_Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Competitive_Programming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Competitive_Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Competitive_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="UFPT" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -287,7 +292,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559158794027" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559158838790" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -411,7 +416,7 @@
       <workItem from="1540069357438" duration="175000" />
       <workItem from="1554498661204" duration="20451000" />
       <workItem from="1558460738342" duration="6454000" />
-      <workItem from="1558833744608" duration="5123000" />
+      <workItem from="1558833744608" duration="5381000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1537733420885</created>
@@ -448,11 +453,39 @@
       <option name="project" value="LOCAL" />
       <updated>1559158491375</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="some more problems">
+      <created>1559158645274</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559158645274</updated>
+    </task>
+    <task id="LOCAL-00007" summary="some more problems">
+      <created>1559158715237</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559158715237</updated>
+    </task>
+    <task id="LOCAL-00008" summary="some more problems">
+      <created>1559158806132</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559158806132</updated>
+    </task>
+    <task id="LOCAL-00009" summary="some more problems">
+      <created>1559158814280</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559158814280</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228986000" />
+    <option name="totallyTimeSpent" value="229244000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -465,9 +498,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4861996" visible="true" weight="0.19060403" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4861996" visible="true" weight="0.19060403" />
       <window_info id="Structure" order="1" sideWeight="0.51380044" side_tool="true" weight="0.22852233" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -481,7 +513,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4982699" visible="true" weight="0.19858156" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.4982699" visible="true" weight="0.19858156" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49913496" weight="0.20992908" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5043253" weight="0.2397163" />
@@ -499,6 +531,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -977,6 +1035,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-945">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tools/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -984,13 +1049,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
