@@ -1,5 +1,9 @@
 package Algorithms;
 import java.util.*;
+//not my code
+//Counting QuickPerm Algorithm
+//https://stackoverflow.com/questions/11915026/permutations-of-a-string-using-iteration
+//Don Roby
 public class String_Permutations_Iterative {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
