@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0cf30c36-78ae-44b2-a9f8-bac8893cfd2d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/String_Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/String_Permutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/String_Permutations_Iterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/String_Permutations_Iterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Kruskals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Kruskals.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,24 +67,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="154" />
+          <entry key="java" value="155" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="154" />
+          <entry key="JAVA" value="155" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="37993" />
-          <entry key="txt" value="52" />
+          <entry key="java" value="38009" />
+          <entry key="txt" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="37993" />
-          <entry key="PLAIN_TEXT" value="52" />
+          <entry key="JAVA" value="38009" />
+          <entry key="PLAIN_TEXT" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -126,11 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/String_Permutations_Iterative.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="272">
+              <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -140,6 +139,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/Kruskals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -179,15 +190,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problems/Other/Row.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -245,7 +247,6 @@
         <option value="$PROJECT_DIR$/src/UFPT/pkg_5_21_19/HOMO.java" />
         <option value="$PROJECT_DIR$/src/Tools/Reader.java" />
         <option value="$PROJECT_DIR$/src/UFPT/pkg_5_29_19/EZDIJKST.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/Kruskals.java" />
         <option value="$PROJECT_DIR$/src/UFPT/SPOJ/KNAPSACK.java" />
         <option value="$PROJECT_DIR$/src/Testing/Solution.java" />
         <option value="$PROJECT_DIR$/src/UFPT/SPOJ/AGGRCOW.java" />
@@ -273,6 +274,7 @@
         <option value="$PROJECT_DIR$/src/Problems/Other/Units.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/String_Permutations.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/String_Permutations_Iterative.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Kruskals.java" />
       </list>
     </option>
   </component>
@@ -313,6 +315,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Competitive_Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Competitive_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Kruskals.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -323,7 +332,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559639254064" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559639374450" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -448,7 +457,7 @@
       <workItem from="1554498661204" duration="20451000" />
       <workItem from="1558460738342" duration="6454000" />
       <workItem from="1558833744608" duration="10658000" />
-      <workItem from="1559325870640" duration="7394000" />
+      <workItem from="1559325870640" duration="7514000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1537733420885</created>
@@ -527,11 +536,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559638695795</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="updated sources">
+      <created>1559639285811</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1559639285811</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241915000" />
+    <option name="totallyTimeSpent" value="242035000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -612,7 +628,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="some more problems" />
     <MESSAGE value="organized the problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="organized the problems" />
+    <MESSAGE value="updated sources" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated sources" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -768,7 +785,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Algorithms/Kruskals.java</url>
-          <line>134</line>
+          <line>135</line>
           <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
@@ -823,16 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="963">
           <caret line="63" column="44" lean-forward="true" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Kruskals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-193">
-          <caret line="117" column="8" selection-start-line="117" selection-start-column="8" selection-end-line="117" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1140,8 +1147,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/String_Permutations_Iterative.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        <state relative-caret-position="272">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Kruskals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

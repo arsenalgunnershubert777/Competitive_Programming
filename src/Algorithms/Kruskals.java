@@ -2,7 +2,8 @@ package Algorithms;
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-
+//not my code
+//https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
 public class Kruskals {
     public static void main (String[] args)
     {
