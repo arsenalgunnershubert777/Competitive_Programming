@@ -1,4 +1,4 @@
-package Algorithms;
+package Data_Structures_and_Algorithms;
 import java.util.*;
 //not my code
 //Counting QuickPerm Algorithm

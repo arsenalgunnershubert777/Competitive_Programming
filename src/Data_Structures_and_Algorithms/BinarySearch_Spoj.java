@@ -1,4 +1,4 @@
-package Algorithms;
+package Data_Structures_and_Algorithms;
 import java.util.*;
 //https://www.spoj.com/status/start=40
 //this didn't work out because it wasn't fast enough, needed scanf in C lol

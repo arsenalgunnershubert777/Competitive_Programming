@@ -3,7 +3,7 @@ package Tools;
 import java.io.DataInputStream;
 import java.io.InputStream;
 
-class Reader{
+public class Reader{
     final private int BUFFER_SIZE = 1 << 16;
 
     private DataInputStream din;
